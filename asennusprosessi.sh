@@ -10,5 +10,6 @@ cd casparcg_server
 echo "----------------"
 echo "Asennuspaketti ladattu. Suoritetaan caspar:"
 
+cp ../../casparcg.config casparcg.config
 startx
 ./run.sh
