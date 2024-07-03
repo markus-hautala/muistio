@@ -11,3 +11,4 @@ echo "----------------"
 echo "Asennuspaketti ladattu. Suoritetaan run_docker.sh:"
 export DISPLAY=:0
 sudo ./run_docker.sh
+
