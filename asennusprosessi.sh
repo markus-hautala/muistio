@@ -8,8 +8,12 @@ unzip casparcg-server-v2.4.0-stable-ubuntu22.zip
 cd casparcg_server
 
 echo "----------------"
-echo "Asennuspaketti ladattu. Suoritetaan caspar:"
+echo "Asennuspaketti ladattu. Suoritetaan asennus:"
 
 cp ../../casparcg.config casparcg.config
+
 startx
+xrandr --output HDMI-0 --mode 1920x1080 --rate 50.00
+xrandr --output HDMI-0 --below HDMI-1
+
 ./run.sh
