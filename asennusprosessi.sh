@@ -8,7 +8,7 @@ unzip casparcg-server-v2.4.0-stable-ubuntu22.zip
 cd casparcg_server
 
 echo "----------------"
-echo "Asennuspaketti ladattu. Suoritetaan run_docker.sh:"
-export DISPLAY=:0
-sudo ./run_docker.sh
+echo "Asennuspaketti ladattu. Suoritetaan caspar:"
 
+startx
+./run.sh
