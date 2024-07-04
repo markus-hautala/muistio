@@ -1,4 +1,4 @@
-!/bin/bash
+#!/bin/bash
 
 mkdir caspar_testiasennus_mha
 cd caspar_testiasennus_mha
