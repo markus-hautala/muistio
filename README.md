@@ -28,4 +28,6 @@ chmod +x *
 # Casparin ajamiseen:
 Kone käynnistetty -> avaa terminal.
 cd muistio
-etunumeron 2 määräämässä järjestyksessä
+./2_setUI.sh
+./3_set_screen.sh
+./4_run_caspar.sh
