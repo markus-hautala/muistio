@@ -25,9 +25,10 @@ Asetuksista: Power -> Screen Blank -> Never
 ### Aja vuorotellen kukin tämän repon .sh filet etunumeron määräämässä järjestyksessä
 
 
-# Casparin ajamiseen kun kone on asennettu ja tiedostot valmiina::
-- Kone käynnistetty -> avaa terminal.
-- cd muistio
-- ./2_setUI.sh
-- ./3_set_screen.sh
-- ./4_run_caspar.sh
+# Casparin starttaus
+Kun kone käynnistetty ja tiedostot valmiina
+- avaa terminal
+- "cd muistio"
+- "./2_setUI.sh"
+- "./3_set_screen.sh"
+- "./4_run_caspar.sh"
