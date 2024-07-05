@@ -17,17 +17,17 @@ Asetuksista: Power -> Screen Blank -> Never
 
 ### Aja seuraavat komennot:
 
-sudo apt install git
-git clone git@github.com:markus-hautala/muistio.git
-cd muistio
-chmod +x *
+- sudo apt install git
+- git clone git@github.com:markus-hautala/muistio.git
+- cd muistio
+- chmod +x *
 
 ### Aja vuorotellen kukin tämän repon .sh filet etunumeron määräämässä järjestyksessä
 
 
-# Casparin ajamiseen:
-Kone käynnistetty -> avaa terminal.
-cd muistio
-./2_setUI.sh
-./3_set_screen.sh
-./4_run_caspar.sh
+# Casparin ajamiseen kun kone on asennettu ja tiedostot valmiina::
+- Kone käynnistetty -> avaa terminal.
+- cd muistio
+- ./2_setUI.sh
+- ./3_set_screen.sh
+- ./4_run_caspar.sh
