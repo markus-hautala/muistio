@@ -32,3 +32,4 @@ Kun kone käynnistetty ja tiedostot valmiina
 - "./2_setUI.sh"
 - "./3_set_screen.sh"
 - "./4_run_caspar.sh"
+- anna salasana mikäli se kyselee sitä
