@@ -36,3 +36,5 @@ Kun kone käynnistetty ja tiedostot valmiina
 - "./3_set_screen.sh" (näyttöjen asetus)
 - "./4_run_caspar.sh"
 - anna salasana mikäli se kyselee sitä
+
+-Client: https://github.com/CasparCG/client/releases
