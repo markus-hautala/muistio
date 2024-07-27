@@ -29,7 +29,10 @@ Asetuksista: Power -> Screen Blank -> Never
 Kun kone käynnistetty ja tiedostot valmiina
 - avaa terminal
 - "cd muistio"
-- "./2_setUI.sh"
-- "./3_set_screen.sh"
+- aseta oikea output äänelle. Settings -> Sound -> Output.
+  - HDMI0: "HDMI / Displayport 2 - GP106 ..."
+  - HDMI1: "HDMI / Displayport - GP106 ..."
+- "./2_setUI.sh" (hiiren piilotus)
+- "./3_set_screen.sh" (näyttöjen asetus)
 - "./4_run_caspar.sh"
 - anna salasana mikäli se kyselee sitä
