@@ -30,8 +30,8 @@ Kun kone käynnistetty ja tiedostot valmiina
 - avaa terminal
 - "cd muistio"
 - aseta oikea output äänelle. Settings -> Sound -> Output.
-  - HDMI0: "HDMI / Displayport 2 - GP106 ..."
-  - HDMI1: "HDMI / Displayport - GP106 ..."
+  - HDMI0: "HDMI / Displayport - GP106 ..."
+  - HDMI1: "HDMI / Displayport 2 - GP106 ..."
 - "./2_setUI.sh" (hiiren piilotus)
 - "./3_set_screen.sh" (näyttöjen asetus)
 - "./4_run_caspar.sh"
